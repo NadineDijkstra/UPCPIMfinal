@@ -4,4 +4,4 @@ Analysis code for the paper "No overlap between unconscious and imagined represe
 
 'MasterWrapper.m' walks through all analysis steps from raw data to main results. Requires SPM, Fieldtrip and Freesurfer to be installed and communicating with MATLAB. 
 
-Raw data can be downloaded from: https://webdav.data.donders.ru.nl/dccn/DSC_3018030.03_435. This contains all functional scans already realigned, coregistered and normalised to MNI space via DARTEL normalisation (more details in the analysis code and paper). 
+Raw data can be downloaded from: https://doi.org/10.34973/j9yn-q419. This contains all functional scans already realigned, coregistered and normalised to MNI space via DARTEL normalisation (more details in the analysis code and paper). 
